@@ -3,6 +3,8 @@
 #### 介绍
 通用知识竞赛小程序，是一种新颖的知识传播路径，成本只有传统的知识竞赛的几分之一，趣味性强，巩固知识效果好。在真实的案例中，排名前十的用户一周参加竞赛300次以上，相关知识得到明显增强。
 
+The general knowledge competition mini program is a novel path for knowledge dissemination, with a cost only a fraction of that of traditional knowledge competitions. It is highly entertaining and effective in consolidating knowledge. In real cases, the top ten users participate in competitions more than 300 times a week, and their relevant knowledge is significantly enhanced.
+
 
 #### 体验小程序
     当前可以访问5个发布的小程序。
